@@ -52,4 +52,4 @@ $ pip3 freeze
 ```bash 
 $ cd /spam-mail-detection
 $ jupyter notebook
-''''
+````
