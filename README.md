@@ -47,3 +47,9 @@ $ pip3 install statsmodels
 ```bash
 $ pip3 freeze
 ````
+
+* Run jupyter notebook Open your mac terminal
+```bash 
+$ cd /spam-mail-detection
+$ jupyter notebook
+''''
